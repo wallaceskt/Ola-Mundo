@@ -3,4 +3,4 @@
 
  Repositório *criado* durante uma aula ao vivo.
  
- Essa linha eu adicionei diretamente do __*github.com*__.
+ Essa linha eu adicionei diretamente do [github.com](https://github.com).
